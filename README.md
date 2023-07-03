@@ -6,8 +6,8 @@ Hi, my name is Dwipayan Mondal
 This is a Stopwatch project which has been tested on Apache Netbeans IDE 18. The application is built by using only Java programs.
 It is expected the app can run on any version of Netbeans. If you face any issues please let me know.
 
-![Capture](https://github.com/Sudwipayan/Stopwatch-Project/assets/122853924/7a295810-428a-47ec-b1a7-120a4abe7d85)
 ![Capture](https://github.com/Sudwipayan/Software-Project/assets/122853924/00c229cc-906a-4f23-820b-7c7fe02eb20e)
+
 Steps to run this application:
 1. Unzip the zip file
 1. Open Apache Netbeans IDE
